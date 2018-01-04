@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Post Demo"
+date:   2018-01-04 18:46:18 -0500
+categories:
+---
+I'm learning how to use Jekyll so I can make a site about visual advocacy.
+
+More words wordy words.
